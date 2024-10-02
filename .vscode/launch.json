@@ -1,0 +1,42 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        // Gateway project
+        {
+            "name": "marvel-gateway",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/marvel-gateway-service/marvel-gateway-service.csproj"
+        },
+
+        // Movies project
+        {
+            "name": "movies",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/movies/movies.csproj"
+        },
+
+        // Series project
+        {
+            "name": "series",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/series/series.csproj"
+        },
+
+        // trailers project
+        {
+            "name": "trailers",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/trailers/trailers.csproj"
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Gateway",
+            "configurations": [ "marvel-gateway", "movies", "series", "trailers"]
+        }
+    ]
+}

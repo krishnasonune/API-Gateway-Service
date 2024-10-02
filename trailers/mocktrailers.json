@@ -1,0 +1,43 @@
+ [
+      {
+        "title": "Avengers: Endgame",
+        "releaseDate": "2019-04-26",
+        "director": "Anthony Russo, Joe Russo",
+        "trailerLink": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+        "duration": "2:36",
+        "description": "The remaining Avengers must find a way to reverse the damage caused by Thanos."
+      },
+      {
+        "title": "Spider-Man: No Way Home",
+        "releaseDate": "2021-12-17",
+        "director": "Jon Watts",
+        "trailerLink": "https://www.youtube.com/watch?v=JfVOs0Jqjto",
+        "duration": "2:53",
+        "description": "Spider-Man faces new challenges as his identity is revealed to the world."
+      },
+      {
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "releaseDate": "2022-05-06",
+        "director": "Sam Raimi",
+        "trailerLink": "https://www.youtube.com/watch?v=Nt9p1jYgV0I",
+        "duration": "2:24",
+        "description": "Doctor Strange explores the multiverse and faces threats beyond imagination."
+      },
+      {
+        "title": "Black Panther: Wakanda Forever",
+        "releaseDate": "2022-11-11",
+        "director": "Ryan Coogler",
+        "trailerLink": "https://www.youtube.com/watch?v=ZyZ04f1B6mA",
+        "duration": "2:25",
+        "description": "The people of Wakanda fight to protect their nation after the loss of their king."
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "releaseDate": "2023-05-05",
+        "director": "James Gunn",
+        "trailerLink": "https://www.youtube.com/watch?v=0hC60d9p9y0",
+        "duration": "2:32",
+        "description": "The Guardians embark on a new adventure as they confront their past."
+      }
+    ]
+  

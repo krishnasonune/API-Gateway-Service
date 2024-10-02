@@ -1,0 +1,50 @@
+[
+      {
+        "title": "WandaVision",
+        "releaseDate": "2021-01-15",
+        "director": "Matt Shakman",
+        "trailerLink": "https://www.youtube.com/watch?v=QwievZ0B8Qo",
+        "duration": "2:10",
+        "description": "Wanda Maximoff and Vision navigate the challenges of suburban life in a series of sitcom-inspired episodes."
+      },
+      {
+        "title": "The Falcon and the Winter Soldier",
+        "releaseDate": "2021-03-19",
+        "director": "Kari Skogland",
+        "trailerLink": "https://www.youtube.com/watch?v=9D05uZq5nJ0",
+        "duration": "2:19",
+        "description": "Sam Wilson and Bucky Barnes team up to confront a new threat in the wake of Captain America's legacy."
+      },
+      {
+        "title": "Loki",
+        "releaseDate": "2021-06-09",
+        "director": "Kate Herron",
+        "trailerLink": "https://www.youtube.com/watch?v=nttRz1i2x6E",
+        "duration": "2:18",
+        "description": "Loki, the God of Mischief, finds himself in a mysterious organization that monitors timelines."
+      },
+      {
+        "title": "Hawkeye",
+        "releaseDate": "2021-11-24",
+        "director": "Rhys Thomas",
+        "trailerLink": "https://www.youtube.com/watch?v=1M3vCkP3SKg",
+        "duration": "2:05",
+        "description": "Clint Barton teams up with Kate Bishop to confront enemies from his past during the holiday season."
+      },
+      {
+        "title": "Ms. Marvel",
+        "releaseDate": "2022-06-08",
+        "director": "Adil El Arbi, Bilall Fallah, and others",
+        "trailerLink": "https://www.youtube.com/watch?v=3qxI7mZQd6E",
+        "duration": "2:16",
+        "description": "Kamala Khan, a Pakistani-American teenager, discovers her superpowers and navigates her identity."
+      },
+      {
+        "title": "She-Hulk: Attorney at Law",
+        "releaseDate": "2022-08-18",
+        "director": "Kat Coiro, Anu Valia",
+        "trailerLink": "https://www.youtube.com/watch?v=__z5T5va8iI",
+        "duration": "2:38",
+        "description": "Jennifer Walters, a lawyer and cousin of Bruce Banner, becomes the She-Hulk and tackles legal cases involving superhumans."
+      }
+    ]

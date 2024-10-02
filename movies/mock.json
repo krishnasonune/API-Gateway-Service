@@ -1,0 +1,58 @@
+[
+      {
+        "title": "Iron Man",
+        "releaseDate": "2008-05-02",
+        "director": "Jon Favreau",
+        "trailerLink": "https://www.youtube.com/watch?v=8hYlB38g1uE",
+        "duration": "2:06",
+        "description": "Tony Stark, a wealthy industrialist, builds a suit of armor to escape captivity and becomes Iron Man."
+      },
+      {
+        "title": "The Avengers",
+        "releaseDate": "2012-05-04",
+        "director": "Joss Whedon",
+        "trailerLink": "https://www.youtube.com/watch?v=eOrNdBpGMv8",
+        "duration": "2:24",
+        "description": "Earth's mightiest heroes assemble to stop Loki and his alien army from invading Earth."
+      },
+      {
+        "title": "Black Panther",
+        "releaseDate": "2018-02-16",
+        "director": "Ryan Coogler",
+        "trailerLink": "https://www.youtube.com/watch?v=xjDjIWPwcPU",
+        "duration": "2:14",
+        "description": "T'Challa returns home to Wakanda to take the throne as king but faces challenges from rivals."
+      },
+      {
+        "title": "Spider-Man: Far From Home",
+        "releaseDate": "2019-07-02",
+        "director": "Jon Watts",
+        "trailerLink": "https://www.youtube.com/watch?v=Nt9p1jYgV0I",
+        "duration": "2:31",
+        "description": "Peter Parker goes on a school trip to Europe and faces new threats as Spider-Man."
+      },
+      {
+        "title": "Eternals",
+        "releaseDate": "2021-11-05",
+        "director": "Chloé Zhao",
+        "trailerLink": "https://www.youtube.com/watch?v=0sHtvS3dOt0",
+        "duration": "2:40",
+        "description": "A group of immortal beings with superhuman powers must come together to protect humanity."
+      },
+      {
+        "title": "Thor: Love and Thunder",
+        "releaseDate": "2022-07-08",
+        "director": "Taika Waititi",
+        "trailerLink": "https://www.youtube.com/watch?v=Go8nM7xB1jA",
+        "duration": "2:27",
+        "description": "Thor embarks on a journey of self-discovery, facing new challenges and old enemies."
+      },
+      {
+        "title": "The Marvels",
+        "releaseDate": "2023-11-10",
+        "director": "Nia DaCosta",
+        "trailerLink": "https://www.youtube.com/watch?v=iw9Y3qkHE64",
+        "duration": "2:21",
+        "description": "Captain Marvel, Ms. Marvel, and Monica Rambeau team up to save the universe."
+      }
+    ]

@@ -1,0 +1,13 @@
+.vscode/settings.json
+
+marvel-gateway-service/bin
+marvel-gateway-service/obj
+
+movies/bin
+movies/obj
+
+series/bin
+series/obj
+
+trailers/bin
+trailers/obj

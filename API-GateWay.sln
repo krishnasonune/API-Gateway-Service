@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movies", "movies\movies.csproj", "{60481D58-38D3-4254-A847-899294DF3CBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "series", "series\series.csproj", "{1FA5DB30-0F26-4A0B-BD21-AFC1897515FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trailers", "trailers\trailers.csproj", "{214DF81F-A4C8-4B3C-96A0-60EB4DBE244E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "marvel-gateway-service", "marvel-gateway-service\marvel-gateway-service.csproj", "{EA129AAA-2834-4793-BE6C-F06EA1A63940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60481D58-38D3-4254-A847-899294DF3CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60481D58-38D3-4254-A847-899294DF3CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60481D58-38D3-4254-A847-899294DF3CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60481D58-38D3-4254-A847-899294DF3CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA5DB30-0F26-4A0B-BD21-AFC1897515FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA5DB30-0F26-4A0B-BD21-AFC1897515FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA5DB30-0F26-4A0B-BD21-AFC1897515FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA5DB30-0F26-4A0B-BD21-AFC1897515FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214DF81F-A4C8-4B3C-96A0-60EB4DBE244E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214DF81F-A4C8-4B3C-96A0-60EB4DBE244E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214DF81F-A4C8-4B3C-96A0-60EB4DBE244E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214DF81F-A4C8-4B3C-96A0-60EB4DBE244E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA129AAA-2834-4793-BE6C-F06EA1A63940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA129AAA-2834-4793-BE6C-F06EA1A63940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA129AAA-2834-4793-BE6C-F06EA1A63940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA129AAA-2834-4793-BE6C-F06EA1A63940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

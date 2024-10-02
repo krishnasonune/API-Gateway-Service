@@ -1,0 +1,37 @@
+{
+  "Routes": [
+    {
+        "UpstreamPathTemplate": "/gateway/movies",
+        "UpstreamHttpMethod" : ["GET"],
+        "DownstreamScheme": "http",
+        "DownstreamPathTemplate": "/api/movies/movies",
+        "DownstreamHostAndPorts": [{
+            "Host": "localhost",
+            "Port": 53002
+        }]
+    },
+
+    {
+        "UpstreamPathTemplate": "/gateway/series",
+        "UpstreamHttpMethod" : ["GET"],
+        "DownstreamScheme": "http",
+        "DownstreamPathTemplate": "/api/marvelseries/series",
+        "DownstreamHostAndPorts": [{
+            "Host": "localhost",
+            "Port": 53003
+        }]
+    },
+
+    {
+        "UpstreamPathTemplate": "/gateway/trailers",
+        "UpstreamHttpMethod" : ["GET"],
+        "DownstreamScheme": "http",
+        "DownstreamPathTemplate": "/api/trailer/trailers",
+        "DownstreamHostAndPorts": [{
+            "Host": "localhost",
+            "Port": 53004
+        }]
+    }
+  ],
+  "GlobalConfiguration":{}
+}
