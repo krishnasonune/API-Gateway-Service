@@ -20,5 +20,16 @@ namespace MyApp.Namespace
             sr.Close();
             return Ok(data);
         }
+
+        [HttpPost]
+        [Route("addmovies/{name}")]
+        public async Task<IActionResult> AddMovies([FromRoute] string name)
+        {
+            if (string.IsNullOrEmpty(name))
+            {
+                return BadRequest("Movie name cannot be empty");
+            }
+            return Ok("Movie Added to the database");
+        }
     }
 }

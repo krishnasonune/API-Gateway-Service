@@ -19,5 +19,16 @@ namespace MyApp.Namespace
             sr.Close();
             return Ok(data);
         }
+
+        [HttpPost]
+        [Route("addseries/{name}")]
+        public async Task<IActionResult> AddSeries([FromRoute] string name)
+        {
+            if (string.IsNullOrWhiteSpace(name))
+            {
+                return BadRequest("series name cannot be null or empty");
+            }
+            return Ok("Series Added to the database");
+        }
     }
 }
